@@ -12,15 +12,15 @@ This project focuses on building a simple chatbot using the ChatGPT API. The goa
 - OpenAI API (ChatGPT): The API used to generate chatbot responses.
 
 ## Installation
-Prerequisites
-Python 3.x
-Pip (Python package installer)
+- Prerequisites
+- Python 3.x
+- Pip (Python package installer)
 
 ## Steps
-Clone the repository
-Install dependencies
+- Clone the repository
+- Install dependencies
 
-Go to OpenAI and create an account.
+## Go to OpenAI and create an account.
 Once signed in, obtain your API key from the OpenAI dashboard.
 Configure API Key: Create a .env file in the project directory and add your OpenAI API key:
 
