@@ -21,17 +21,17 @@ This project focuses on building a simple chatbot using the ChatGPT API. The goa
 - Install dependencies
 
 ## Go to OpenAI and create an account.
-Once signed in, obtain your API key from the OpenAI dashboard.
-Configure API Key: Create a .env file in the project directory and add your OpenAI API key
+- Once signed in, obtain your API key from the OpenAI dashboard.
+- Configure API Key: Create a .env file in the project directory and add your OpenAI API key
 
 ## Usage
-The chatbot is where users can type their questions, and the chatbot will respond using the ChatGPT API.
-The responses are generated in real-time, with the chatbot providing relevant answers to simple queries.
+- The chatbot is where users can type their questions, and the chatbot will respond using the ChatGPT API.
+- The responses are generated in real-time, with the chatbot providing relevant answers to simple queries.
 Example Interaction
-User: "What is the weather like today?"
-Chatbot: "I'm sorry, I don't have real-time weather data. Can I assist you with something else?"
-Customization
-You can easily customize the chatbot to improve its responses or add specific functionality:
+- User: "What is the weather like today?"
+- Chatbot: "I'm sorry, I don't have real-time weather data. Can I assist you with something else?"
+- Customization
+- You can easily customize the chatbot to improve its responses or add specific functionality:
 
 Change the max_tokens and temperature settings in the API call to adjust the response length and creativity.
 Expand the chatbot’s functionality by adding more advanced NLP features or integrating external APIs for dynamic data.
