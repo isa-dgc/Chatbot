@@ -1,4 +1,4 @@
-# Understanding Simple Chatbot Development with ChatGPT API: A Practical Approach
+# Simple Chatbot Development with ChatGPT API
 Overview
 This project focuses on building a simple chatbot using the ChatGPT API. The goal is to create a basic chatbot capable of responding to user queries in a simple, efficient manner. This project is intended for those who are new to chatbot development, and it provides a hands-on approach to learning how to integrate and customize the ChatGPT model using Python.
 
