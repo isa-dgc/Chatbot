@@ -22,7 +22,7 @@ This project focuses on building a simple chatbot using the ChatGPT API. The goa
 
 ## Go to OpenAI and create an account.
 Once signed in, obtain your API key from the OpenAI dashboard.
-Configure API Key: Create a .env file in the project directory and add your OpenAI API key:
+Configure API Key: Create a .env file in the project directory and add your OpenAI API key
 
 ## Usage
 The chatbot is where users can type their questions, and the chatbot will respond using the ChatGPT API.
